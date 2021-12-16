@@ -1,0 +1,1 @@
+Add the weights file of the YOLO model in this sub folder. 
